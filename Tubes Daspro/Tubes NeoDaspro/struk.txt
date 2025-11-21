@@ -1,0 +1,56 @@
+=====================================
+            STRUK PEMBAYARAN
+=====================================
+Restoran: RESTORAN 9Nine
+Alamat: JL.merdeka simpang3 usu
+Tanggal: 18/11/2025
+Waktu: 08:34:53
+Jenis: Pesanan
+Total: Rp 50000
+Metode: BRI
+Dibayar: Rp 500000
+Kembalian: Rp 450000
+=====================================
+
+=====================================
+            STRUK PEMBAYARAN
+=====================================
+Restoran: RESTORAN 9Nine
+Alamat: JL.merdeka simpang3 usu
+Tanggal: 18/11/2025
+Waktu: 08:35:40
+Jenis: Booking
+Total: Rp 550000
+Metode: Cash
+Dibayar: Rp 1000000
+Kembalian: Rp 450000
+=====================================
+
+=====================================
+            STRUK PEMBAYARAN
+=====================================
+Restoran: RESTORAN 9Nine
+Alamat: JL.merdeka simpang3 usu
+Tanggal: 18/11/2025
+Waktu: 09:13:33
+Jenis: Pesanan
+Total: Rp 40000
+Metode: Cash
+Dibayar: Rp 200000
+Kembalian: Rp 160000
+=====================================
+
+=====================================
+            STRUK PEMBAYARAN
+=====================================
+Restoran: RESTORAN 9Nine
+Alamat: JL.merdeka simpang3 usu
+Tanggal: 19/11/2025
+Waktu: 10:49:10
+Jenis: Pesanan
+Total: Rp 50000
+Metode: Cash
+Dibayar: Rp 500000
+Kembalian: Rp 450000
+=====================================
+
